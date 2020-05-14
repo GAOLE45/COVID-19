@@ -1,4 +1,3 @@
-# COVID-19
 app with streamlit
 
 # Required Files
